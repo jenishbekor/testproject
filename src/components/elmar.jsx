@@ -1,4 +1,4 @@
-function elmar() {
+function Elmar() {
   return (
     <div className="student-card">
       <h2>Elmar Kalmukhamedov</h2>
@@ -9,4 +9,4 @@ function elmar() {
   );
 }
 
-export default elmar;
+export default Elmar;
