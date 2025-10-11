@@ -1,4 +1,4 @@
-function aruuke() {
+function Aruuke() {
   return (
     <div className="student-card">
       <h2>Aruuke Boronbaeva</h2>
@@ -9,4 +9,4 @@ function aruuke() {
   );
 }
 
-export default aruuke;
+export default Aruuke;
