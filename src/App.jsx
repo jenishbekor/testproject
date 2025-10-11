@@ -3,6 +3,7 @@ import Albina from "./components/albina";
 import Nurjanat from "./components/Nurjanat";
 import Samat from "./components/Samat";
 import Nurzatbek from "./components/Nurzatbek";
+import Aruuke from "./components/Aruuke";
 
 function App() {
   return (
@@ -14,6 +15,7 @@ function App() {
         <Nurjanat />
         <Samat />
         <Nurzatbek />
+        <Aruuke />
 
         {/* add more student components here */}
       </div>
