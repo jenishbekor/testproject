@@ -1,4 +1,4 @@
-function atai() {
+function Atai() {
   return (
     <div className="student-card">
       <h2>Satiev Atai</h2>
@@ -9,4 +9,4 @@ function atai() {
   );
 }
 
-export default Zhenish;
+export default Atai;
