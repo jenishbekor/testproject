@@ -1,4 +1,4 @@
-functiontion Samara() {
+function Samara() {
   return (
     <div className="student-card">
       <h2>Jumalieva Samara</h2>
