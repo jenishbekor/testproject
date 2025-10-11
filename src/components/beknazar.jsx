@@ -9,4 +9,4 @@ function Beknazar() {
   );
 }
 
-export default Zhenish;
+export default Beknazar;
